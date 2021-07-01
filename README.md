@@ -85,6 +85,10 @@ Collective Capability for Protelis Programs
 - [Protelis-Measure-Temperature-Test] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
 
 
+Maple Combined Execution
+- [MAPLE-Combined-Execution] - video on YouTube depicting the combined execution of many MAPLE elements
+
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign]: <https://youtu.be/MWNyUymtNSs>
 [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex]: <https://youtu.be/G8JHShUlQY0>
@@ -96,7 +100,7 @@ Collective Capability for Protelis Programs
 [PROTEASE-NetLogo-Line-of-Fliers]: <https://youtu.be/X0rLeP0dwH8>
 [PROTEASE-NetLogo-Ring-of-Fliers]: <>
 [PROTEASE-NetLogo-Ball-of-Fliers]: <https://youtu.be/zSJMDMwmQig>
-[PROTEASE-NetLogo-Shape-Form]: <>
+[PROTEASE-NetLogo-Shape-Form]: <https://youtu.be/H-CSzOhdDHo>
 [PROTEASE-NetLogo-SCORe]: <>
 
 [Maple-Seeding-Robot]: <https://youtu.be/A0ZzV-Ba-QY>
@@ -140,3 +144,5 @@ Collective Capability for Protelis Programs
 [Protelis-Termination-Test]: <https://youtu.be/w24bq9E0IM8>
 [Protelis-Count-Neighbors-Test]: <https://youtu.be/B_QFnJ9VPRA>
 [Protelis-Measure-Temperature-Test]: <https://youtu.be/HCttW2Ol8EI>
+
+[MAPLE-Combined-Execution]: <>
