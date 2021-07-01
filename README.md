@@ -93,9 +93,9 @@ Collective Capability for Protelis Programs
 [PROTEASE-NetLogo-Guided-Boiding]: <https://youtu.be/em3K2T3ZrX0>
 [PROTEASE-NetLogo-PSO]: <https://youtu.be/N_jqH-WfoPU>
 [PROTEASE-NetLogo-Triangle]: <>
-[PROTEASE-NetLogo-Line-of-Fliers]: <>
+[PROTEASE-NetLogo-Line-of-Fliers]: <https://youtu.be/X0rLeP0dwH8>
 [PROTEASE-NetLogo-Ring-of-Fliers]: <>
-[PROTEASE-NetLogo-Ball-of-Fliers]: <>
+[PROTEASE-NetLogo-Ball-of-Fliers]: <https://youtu.be/zSJMDMwmQig>
 [PROTEASE-NetLogo-Shape-Form]: <>
 [PROTEASE-NetLogo-SCORe]: <>
 
