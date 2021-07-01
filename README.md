@@ -80,9 +80,9 @@ Protease - Modifying the Aggregation Function
 
 
 Collective Capability for Protelis Programs
-- [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
-- [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
-- [Protelis-Capability-Access] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Termination-Test] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Count-Neighbors-Test] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Measure-Temperature-Test] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -137,6 +137,6 @@ Collective Capability for Protelis Programs
 [PROTEASE-Aggregation-Centroid]: <>
 [PROTEASE-Aggregation-Unknown-Measurement]: <>
 
-[Protelis-Termination]: <>
-[Protelis-Communication]: <>
-[Protelis-Capability-Access]: <>
+[Protelis-Termination-Test]: <https://youtu.be/w24bq9E0IM8>
+[Protelis-Count-Neighbors-Test]: <https://youtu.be/B_QFnJ9VPRA>
+[Protelis-Measure-Temperature-Test]: <https://youtu.be/HCttW2Ol8EI>
