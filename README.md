@@ -98,7 +98,7 @@ Maple Combined Execution
 [PROTEASE-NetLogo-PSO]: <https://youtu.be/N_jqH-WfoPU>
 [PROTEASE-NetLogo-Triangle]: <https://youtu.be/7b30UHHPg4I>
 [PROTEASE-NetLogo-Line-of-Fliers]: <https://youtu.be/X0rLeP0dwH8>
-[PROTEASE-NetLogo-Ring-of-Fliers]: <>
+[PROTEASE-NetLogo-Ring-of-Fliers]: <https://youtu.be/BiFtdmCwRoA>
 [PROTEASE-NetLogo-Ball-of-Fliers]: <https://youtu.be/zSJMDMwmQig>
 [PROTEASE-NetLogo-Shape-Form]: <https://youtu.be/H-CSzOhdDHo>
 [PROTEASE-NetLogo-SCORe]: <https://youtu.be/ACDBlew6raw>
