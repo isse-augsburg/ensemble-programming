@@ -5,189 +5,138 @@
 
 On this page, we present video materials accompanying the evaluations performed in the Doctorals Thesis "Ensemble Programming for Flying Ensembles -Combinging Planning with Self-Organization" authored by Oliver Kosak.
 
-The contents of this page are as follows:
+The contents of this page are video materials dedicated to the following purposes:
 
-- Evaluations of the prototypical reference implementation of Multipotent Systems
+- Evaluations of the concepts from the Multipotent Systems reference architecture using our prototypical reference implementation deployed to  real hardware
+- Evaluation of the task allocation mechanism using real hardware
 - Evaluations of the Algorithmic Pattern for Trajectory-Based Swarm Behavior (Protease) with NetLogo
 - Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
 
 
-TODO: adapt this dummy text 
-## Features
+## Evaluations of the Concepts from the Multipotent Systems Reference Architecture Using the Prototypical Reference Implementation Deployed to  Real Hardware
+- [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign] - video on YouTube depicting the field experiment performed during the ScaleX 2016 measuring campaign demonstrating the feasibility of cooperatively transporting a DTS optic-fiber measuring unit with a Multipotent System
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+## Evaluation of the Task Allocation Mechanism Using Real Hardware
+- [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex] - video on YoutTube depicting the mechanism for Self-Organized task allocation deomonstrated at the 10th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO) 2016
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+## Evaluations of the Algorithmic Pattern for Trajectory-Based Swarm Behavior (Protease) with NetLogo
+- [PROTEASE-NetLogo-Gathering]: video on YouTube depicting the execution of Protease generating a Gathering swarm behavior
+- [PROTEASE-NetLogo-Guided-Boiding]: video on YouTube depicting the execution of Protease generating a Guided-Boiding swarm behavior
+- [PROTEASE-NetLogo-PSO]: video on YouTube depicting the execution of Protease generating a PSO swarm behavior
+- [PROTEASE-NetLogo-Triangle]: video on YouTube depicting the execution of Protease generating a Triangle swarm behavior
+- [PROTEASE-NetLogo-Line-of-Fliers]: video on YouTube depicting the execution of Protease generating a Line-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Ring-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Ball-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Shape-Form]: video on YouTube depicting the execution of Protease generating a Shape-Form swarm behavior
+- [PROTEASE-NetLogo-SCORe] (additional): video on YouTube depicting the execution of Protease configurations relevant for a SCORe mission relevant for Major Catastrophe Handling
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+## Evaluations of the Maple Designer
+ - [Maple-Seeding-Robot] - video demonstrating the execution of the seeding robot scenario
+ - [MAPLE-Forest-Fire-Planning-Execution] - video demonstrating the execution of the Forest-Fire-HTN within a 2D-dimensional simulation environment
+ - [MAPLE-Forest-Fire-HTN-Design] - video demonstrating the Design of the Forest-Fire-HTN
 
-## Tech
+## Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
 
-Dillinger uses a number of open source projects to work properly:
+Control Structures and Coordination
+- [MAPLE-Any-Agent]: video on YouTube depicting an exemplary usage of the Any-Agent
+- [MAPLE-All-Agent]: video on YouTube depicting an exemplary usage of the All-Agent
+- [MAPLE-Swarm-Agent]: video on YouTube depicting an exemplary usage of the Swarm-Agent
+- [MAPLE-Set-Agent]: video on YouTube depicting an exemplary usage of the Set-Agent
+- [MAPLE-Sequential-Execution]: video on YouTube depicting an exemplary sequential execution
+- [MAPLE-Parallel-Execution]: video on YouTube depicting an exemplary sequential execution
+- [MAPLE-Repeated-and-Conditional-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
+- [MAPLE-Replanning-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+Collective Capabilities
+ 
+Protease - Modifying the Calculation Function
+- [PROTEASE-Calculator-PSO]: video on YouTube depicting the execution of Protease generating a PSO swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Boiding]: video on YouTube depicting the execution of Protease generating a Boiding swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Triangle]: video on YouTube depicting the execution of Protease generating a Triangle swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Potential-Field]: video on YouTube depicting the execution of Protease generating a Potential-Field swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Line]: video on YouTube depicting the execution of Protease generating a Line swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ring-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ball-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Gathering]: video on YouTube depicting the execution of Protease generating a Gathering swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+ 
+- [PROTEASE-Calculator-PSO-User]: video on YouTube depicting the execution of Protease generating a user-controlled PSO swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Boiding-User]: video on YouTube depicting the execution of Protease generating a user-controlled Boiding swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Triangle-User]: video on YouTube depicting the execution of Protease generating a user-controlled Triangle swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Potential-Field-User]: video on YouTube depicting the execution of Protease generating a user-controlled Potential-Field swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Line-User]: video on YouTube depicting the execution of Protease generating a user-controlled Line swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ring-of-Fliers-User]: video on YouTube depicting the execution of Protease generating a user-controlled Ring-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ball-of-Fliers-User]: video on YouTube depicting the execution of Protease generating a user-controlled Ball-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Gathering-User]: video on YouTube depicting the execution of Protease generating a user-controlled Gathering swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+Protease - Modifying the Termination Function
+- [PROTEASE-Termination-Centroid]: video on YouTube depicting the self termination of Protease using a centroid termination with threshold 0.2 m integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Termination-Unknown-Measurement]: video on YouTube depicting the self termination of Protease using a unknown measurement termination (simulated gas concentration above threshold) integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Termination-User]: video on YouTube depicting the user termination of Protease integrated in the Multipotent Systems reference architecture
 
-## Installation
+Protease - Modifying the Aggregation Function
+- [PROTEASE-Aggregation-Centroid]: video on YouTube depicting the aggregation function centroid of Protease integrated in the Multipotent Systems reference architecture
+- - [PROTEASE-Aggregation-Unknown-Measurement]: video on YouTube depicting the aggregation function centroid of Protease integrated in the Multipotent Systems reference architecture
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Collective Capability for Protelis Programs
+- [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Capability-Access] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
 
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
-
-```sh
-node app
-```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+[Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign]: <https://youtu.be/MWNyUymtNSs>
+[SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex]: <https://youtu.be/G8JHShUlQY0>
 
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+[PROTEASE-NetLogo-Gathering]: <>
+[PROTEASE-NetLogo-Guided-Boiding]: <>
+[PROTEASE-NetLogo-PSO]: <>
+[PROTEASE-NetLogo-Triangle]: <>
+[PROTEASE-NetLogo-Line-of-Fliers]: <>
+[PROTEASE-NetLogo-Ring-of-Fliers]: <>
+[PROTEASE-NetLogo-Ball-of-Fliers]: <>
+[PROTEASE-NetLogo-Shape-Form]: <>
+[PROTEASE-NetLogo-SCORe]: <>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+[Maple-Seeding-Robot]: <>
+[MAPLE-Forest-Fire-Planning-Execution]: <>
+[MAPLE-Forest-Fire-HTN-Design]: <>
+
+[MAPLE-Any-Agent]: <>
+[MAPLE-All-Agent]: <>
+[MAPLE-Swarm-Agent]: <>
+[MAPLE-Set-Agent]: <>
+[MAPLE-Sequential-Execution]: <>
+[MAPLE-Parallel-Execution]: <>
+[MAPLE-Repeated-and-Conditional-Execution]: <>
+[MAPLE-Replanning-Execution]: <>
+
+[PROTEASE-Calculator-PSO]: <>
+[PROTEASE-Calculator-Boiding]: <>
+[PROTEASE-Calculator-Triangle]: <>
+[PROTEASE-Calculator-Potential-Field]: <>
+[PROTEASE-Calculator-Line]: <>
+[PROTEASE-Calculator-Ring-of-Fliers]: <>
+[PROTEASE-Calculator-Ball-of-Fliers]: <>
+[PROTEASE-Calculator-Gathering]: <>
+ 
+[PROTEASE-Calculator-PSO-User]: <>
+[PROTEASE-Calculator-Boiding-User]: <>
+[PROTEASE-Calculator-Triangle-User]: <>
+[PROTEASE-Calculator-Potential-Field-User]: <>
+[PROTEASE-Calculator-Line-User]: <>
+[PROTEASE-Calculator-Ring-of-Fliers-User]: <>
+[PROTEASE-Calculator-Ball-of-Fliers-User]: <>
+[PROTEASE-Calculator-Gathering-User]: <>
+
+[PROTEASE-Termination-Centroid]: <>
+[PROTEASE-Termination-Unknown-Measurement]: <>
+[PROTEASE-Termination-User]: <>
+
+[PROTEASE-Aggregation-Centroid]: <>
+[PROTEASE-Aggregation-Unknown-Measurement]: <>
+
+[Protelis-Termination]: <>
+[Protelis-Communication]: <>
+[Protelis-Capability-Access]: <>
