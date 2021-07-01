@@ -101,7 +101,7 @@ Maple Combined Execution
 [PROTEASE-NetLogo-Ring-of-Fliers]: <>
 [PROTEASE-NetLogo-Ball-of-Fliers]: <https://youtu.be/zSJMDMwmQig>
 [PROTEASE-NetLogo-Shape-Form]: <https://youtu.be/H-CSzOhdDHo>
-[PROTEASE-NetLogo-SCORe]: <>
+[PROTEASE-NetLogo-SCORe]: <https://youtu.be/ACDBlew6raw>
 
 [Maple-Seeding-Robot]: <https://youtu.be/A0ZzV-Ba-QY>
 [MAPLE-Forest-Fire-Planning-Execution]: <https://youtu.be/PhJ7bQdYpvE>
