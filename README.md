@@ -99,9 +99,9 @@ Collective Capability for Protelis Programs
 [PROTEASE-NetLogo-Shape-Form]: <>
 [PROTEASE-NetLogo-SCORe]: <>
 
-[Maple-Seeding-Robot]: <>
-[MAPLE-Forest-Fire-Planning-Execution]: <>
-[MAPLE-Forest-Fire-HTN-Design]: <>
+[Maple-Seeding-Robot]: <https://youtu.be/A0ZzV-Ba-QY>
+[MAPLE-Forest-Fire-Planning-Execution]: <https://youtu.be/PhJ7bQdYpvE>
+[MAPLE-Forest-Fire-HTN-Design]: <https://youtu.be/ztQBfK6HvIc>
 
 [MAPLE-Any-Agent]: <>
 [MAPLE-All-Agent]: <>
