@@ -89,8 +89,8 @@ Collective Capability for Protelis Programs
 [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign]: <https://youtu.be/MWNyUymtNSs>
 [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex]: <https://youtu.be/G8JHShUlQY0>
 
-[PROTEASE-NetLogo-Gathering]: <>
-[PROTEASE-NetLogo-Guided-Boiding]: <>
+[PROTEASE-NetLogo-Gathering]: <https://youtu.be/FgptBQVHsGw>
+[PROTEASE-NetLogo-Guided-Boiding]: <https://youtu.be/em3K2T3ZrX0>
 [PROTEASE-NetLogo-PSO]: <https://youtu.be/N_jqH-WfoPU>
 [PROTEASE-NetLogo-Triangle]: <>
 [PROTEASE-NetLogo-Line-of-Fliers]: <>
