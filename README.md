@@ -46,6 +46,7 @@ Control Structures and Coordination
 - [MAPLE-Sequential-Execution]: video on YouTube depicting an exemplary sequential execution
 - [MAPLE-Parallel-Execution]: video on YouTube depicting an exemplary sequential execution
 - [MAPLE-Repeated-and-Conditional-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
+- [MAPLE-Repeated-and-Conditional-Execution] (additional): video on YouTube depicting an exemplary parallel, repeated, and conditional execution
 - [MAPLE-Replanning-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
 
 Collective Capabilities
@@ -80,13 +81,13 @@ Protease - Modifying the Aggregation Function
 
 
 Collective Capability for Protelis Programs
-- [Protelis-Termination-Test] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
-- [Protelis-Count-Neighbors-Test] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
-- [Protelis-Measure-Temperature-Test] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Termination-Test]: video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Count-Neighbors-Test]: video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Measure-Temperature-Test]: video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
 
 
 Maple Combined Execution
-- [MAPLE-Combined-Execution] - video on YouTube depicting the combined execution of many MAPLE elements
+- [MAPLE-Combined-Execution]: video on YouTube depicting the combined execution of many MAPLE elements
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -107,14 +108,15 @@ Maple Combined Execution
 [MAPLE-Forest-Fire-Planning-Execution]: <https://youtu.be/PhJ7bQdYpvE>
 [MAPLE-Forest-Fire-HTN-Design]: <https://youtu.be/ztQBfK6HvIc>
 
-[MAPLE-Any-Agent]: <>
-[MAPLE-All-Agent]: <>
-[MAPLE-Swarm-Agent]: <>
-[MAPLE-Set-Agent]: <>
-[MAPLE-Sequential-Execution]: <>
-[MAPLE-Parallel-Execution]: <>
-[MAPLE-Repeated-and-Conditional-Execution]: <>
-[MAPLE-Replanning-Execution]: <>
+[MAPLE-Any-Agent]: <https://youtu.be/-VlXx2UnId8>
+[MAPLE-All-Agent]: <https://youtu.be/xmXbGi_yb0g>
+[MAPLE-Swarm-Agent]: <https://youtu.be/TstPvh1I3dE>
+[MAPLE-Set-Agent]: <https://youtu.be/GJNezzL8V7A>
+[MAPLE-Sequential-Execution]: <https://youtu.be/2BXdG9OtPmk>
+[MAPLE-Parallel-Execution]: <https://youtu.be/sEiIs57qZ-g>
+[MAPLE-Repeated-and-Conditional-Execution]: <https://youtu.be/vzyXRfX8MxQ>
+[MAPLE-Parallel-Repeated-Conditional-Execution]: <https://youtu.be/QR0FJBunQyM>
+[MAPLE-Replanning-Execution]: <https://youtu.be/C0BsFtmbFcM>
 
 [PROTEASE-Calculator-PSO]: <>
 [PROTEASE-Calculator-Boiding]: <>
@@ -145,4 +147,4 @@ Maple Combined Execution
 [Protelis-Count-Neighbors-Test]: <https://youtu.be/B_QFnJ9VPRA>
 [Protelis-Measure-Temperature-Test]: <https://youtu.be/HCttW2Ol8EI>
 
-[MAPLE-Combined-Execution]: <>
+[MAPLE-Combined-Execution]: <https://youtu.be/6blyWd_Dm8U>
