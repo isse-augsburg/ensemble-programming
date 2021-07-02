@@ -130,8 +130,8 @@ Maple Combined Execution
 [PROTEASE-Calculator-Boiding-User]: <>
 [PROTEASE-Calculator-Triangle-User]: <>
 [PROTEASE-Calculator-Line-User]: <>
-[PROTEASE-Calculator-Ring-of-Fliers-User]: <>
-[PROTEASE-Calculator-Ball-of-Fliers-User]: <>
+[PROTEASE-Calculator-Ring-of-Fliers-User]: <https://youtu.be/HpMI9JMVCiA>
+[PROTEASE-Calculator-Ball-of-Fliers-User]: <https://youtu.be/E5ikqVxT4cQ>
 [PROTEASE-Calculator-Gathering-User]: <https://youtu.be/BSIVsxKdE2E>
 
 [PROTEASE-Termination-Centroid]: <>
