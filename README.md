@@ -119,12 +119,12 @@ Maple Combined Execution
 [MAPLE-Replanning-Execution]: <https://youtu.be/C0BsFtmbFcM>
 
 [PROTEASE-Calculator-PSO]: <>
-[PROTEASE-Calculator-Boiding]: <>
-[PROTEASE-Calculator-Triangle]: <>
+[PROTEASE-Calculator-Boiding]: <https://youtu.be/DFiwzvqp8D0>
+[PROTEASE-Calculator-Triangle]: <https://youtu.be/Tb4WJMS_8Ng>
 [PROTEASE-Calculator-Potential-Field]: <>
-[PROTEASE-Calculator-Line]: <>
+[PROTEASE-Calculator-Line]: <https://youtu.be/lZccZ-pPr1c>
 [PROTEASE-Calculator-Ring-of-Fliers]: <>
-[PROTEASE-Calculator-Ball-of-Fliers]: <>
+[PROTEASE-Calculator-Ball-of-Fliers]: <https://youtu.be/TECz7wUEaMs>
 [PROTEASE-Calculator-Gathering]: <>
  
 [PROTEASE-Calculator-PSO-User]: <>
