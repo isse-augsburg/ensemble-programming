@@ -125,16 +125,14 @@ Maple Combined Execution
 [PROTEASE-Calculator-Line]: <https://youtu.be/lZccZ-pPr1c>
 [PROTEASE-Calculator-Ring-of-Fliers]: <>
 [PROTEASE-Calculator-Ball-of-Fliers]: <https://youtu.be/TECz7wUEaMs>
-[PROTEASE-Calculator-Gathering]: <>
+[PROTEASE-Calculator-Gathering]: <https://youtu.be/ZgWgeAPEMp4>
  
-[PROTEASE-Calculator-PSO-User]: <>
 [PROTEASE-Calculator-Boiding-User]: <>
 [PROTEASE-Calculator-Triangle-User]: <>
-[PROTEASE-Calculator-Potential-Field-User]: <>
 [PROTEASE-Calculator-Line-User]: <>
 [PROTEASE-Calculator-Ring-of-Fliers-User]: <>
 [PROTEASE-Calculator-Ball-of-Fliers-User]: <>
-[PROTEASE-Calculator-Gathering-User]: <>
+[PROTEASE-Calculator-Gathering-User]: <https://youtu.be/BSIVsxKdE2E>
 
 [PROTEASE-Termination-Centroid]: <>
 [PROTEASE-Termination-Unknown-Measurement]: <>
