@@ -118,7 +118,7 @@ Maple Combined Execution
 [MAPLE-Parallel-Repeated-Conditional-Execution]: <https://youtu.be/QR0FJBunQyM>
 [MAPLE-Replanning-Execution]: <https://youtu.be/C0BsFtmbFcM>
 
-[PROTEASE-Calculator-PSO]: <>
+[PROTEASE-Calculator-PSO]: <https://youtu.be/4R6XbN-bYSA>
 [PROTEASE-Calculator-Boiding]: <https://youtu.be/DFiwzvqp8D0>
 [PROTEASE-Calculator-Triangle]: <https://youtu.be/Tb4WJMS_8Ng>
 [PROTEASE-Calculator-Potential-Field]: <>
